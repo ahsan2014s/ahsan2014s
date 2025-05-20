@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm **Anik Ahsan**  
-_Builds things that probably shouldn't work — but they do._
+_I Build stuffs that probably shouldn't work — but somehow they do._
 
 ---
 
