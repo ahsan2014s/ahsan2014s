@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm **Anik Ahsan**  
-_Passionate researcher, curious thinker, and eternal learner._
+_Builds things that probably shouldn't work — but they do._
 
 ---
 
@@ -30,7 +30,7 @@ _Passionate researcher, curious thinker, and eternal learner._
 
 ## ✨ Fun Facts
 
-- 🔭 I love building systems that **scale** and experimenting with new **protocols**.
+- 🔭 Love building systems that **scale** and experimenting with new **protocols**.
 - 🎯 Focused on bridging the gap between **traditional backend** and **decentralized infrastructure**.
 - 🌱 Always learning, always shipping.
 - 💬 Brainstorm: Smart contracts, or decentralized infrastructures.
