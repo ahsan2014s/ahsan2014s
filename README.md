@@ -24,7 +24,7 @@ _Passionate researcher, curious thinker, and eternal learner._
 
 ## 🌐 Interests
 
-🚀 Blockchain, 🏦 DeFi, 🌍 Web3, 🧠 ICP (Internet Computer), 🔓 Decentralization, 🏛️ DAO
+🔗 Blockchain , 🏦 DeFi, 🌍 Web3, 🧠 ICP (Internet Computer), 🔓 Decentralization, 🏛️ DAO
 
 ---
 
@@ -39,7 +39,7 @@ _Passionate researcher, curious thinker, and eternal learner._
 
 ## 📫 Let's Connect
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/ahsan2014s)
 
 ---
 
