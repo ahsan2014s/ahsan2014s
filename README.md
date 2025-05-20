@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **A. Ahsan**  
+# 👋 Hey there, I'm **Anik Ahsan**  
 _Passionate researcher, curious thinker, and eternal learner._
 
 ---
