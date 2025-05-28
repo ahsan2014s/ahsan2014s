@@ -28,11 +28,11 @@ _I Build stuffs that probably shouldn't work — but somehow they do._
 
 ---
 
-## ✨ Fun Facts
+## 🙋🏼 About Me
 
 - 🔭 Love building systems that **scale** and experimenting with new **protocols**.
-- 🎯 Focused on bridging the gap between **traditional backend** and **decentralized infrastructure**.
-- 🌱 Always learning, always shipping.
+- 🌉 Focused on bridging the gap between **traditional backend** and **decentralized infrastructure**.
+- 📚 Always learning, always shipping.
 - 💬 Brainstorm: Smart contracts, or decentralized infrastructures.
 
 ---
