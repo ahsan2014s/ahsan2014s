@@ -32,7 +32,7 @@ _I Build stuffs that probably shouldn't work — but somehow they do._
 
 - 🔭 Love building systems that **scale** and experimenting with new **protocols**.
 - 🌉 Focused on bridging the gap between **traditional backend** and **decentralized infrastructure**.
-- 📚 Always learning, always shipping.
+- 📚 Always learning
 - 💬 Brainstorm: Smart contracts, or decentralized infrastructures.
 
 ---
@@ -43,6 +43,7 @@ _I Build stuffs that probably shouldn't work — but somehow they do._
 
 ---
 
-> _"If you make AI do all your work, then cats and mice will one day outsmart you."_
->                                                     \- Motoko Kusanagi
+> _"Motoko Kusanagi: You talk about >redefining my identity. I want a >guarantee that I can still be myself.
+> Puppet Master: There isn't one. Why >would you wish to? All things change >in a dynamic environment. Your effort >to remain what you are is what limits >you."_
+>                                       >              \- Ghost in the Shell, 1995
 > 
